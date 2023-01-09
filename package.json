@@ -2,7 +2,7 @@
   "name": "ioresult",
   "version": "0.1.0",
   "description": "A package that makes handling async errors easier.",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
