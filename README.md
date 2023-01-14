@@ -47,7 +47,7 @@ catch (err) {
 Do this:
 
 ```ts
-import ioresult from "ioresult";
+import { ioresult } from "ioresult";
 
 let result1 = await ioresult(someAsyncFunction());
 if (!result1.ok) {
