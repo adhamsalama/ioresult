@@ -63,3 +63,6 @@ return result2.val;
 ```
 
 The result of ioresult is of type ```Result<T, Error>```, which is a bit similar to Rust.
+
+### Installation
+```npm i ioresult```
